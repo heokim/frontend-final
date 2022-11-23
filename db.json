@@ -1,0 +1,19 @@
+{
+  "clientes": [
+    {
+      "id": 1,
+      "nombreCompleto": "Andres Heo Kim",
+      "ruc": "5574180-0",
+      "email": "andresssshk@gmai.com"
+    }
+  ],
+  "Productos": [
+    {
+      "id": 1,
+      "codigo": "AR-132",
+      "nombre": "Producto nro 1",
+      "precioVenta": 26000,
+      "existencia": 10
+    }
+  ]
+}
